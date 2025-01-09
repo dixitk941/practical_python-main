@@ -6,7 +6,7 @@ weight = 1
 
 ### Karan Dixit
 
-{{< figure src="/images/karan-dixit.jpg?width=20pc" width="30%" title="Karan Dixit" >}}
+{{< figure src="/images/KaranDixit.jpg?width=20pc" width="30%" title="Karan Dixit" >}}
 
 Hi, I’m Karan Dixit.
 
